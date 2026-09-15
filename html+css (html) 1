@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Kartu Biodata Siswa</title>
+    <!-- Solusi: Link stylesheet dengan path yang benar -->
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div id="kartu-profil">
+        <h2 class="nama-siswa">Faeyza Zuljalali Rizki</h2>
+        <p>Kelas: X Rekayasa Prangkat Lunak</p>
+        <p>Hobi: Belajar Pemrograman web</P>
+        <p class="pesan-penting">Catatan: Aktif Belajar HTML Dan CSS</p>
+    </div>
+</body>
+</html>
