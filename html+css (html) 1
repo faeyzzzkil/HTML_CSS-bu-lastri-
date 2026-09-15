@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Portal Karya Kelas</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    
+    <!-- Nav -->
+    <nav class="Navbar">
+        <div class="logo">Karya kita</div>
+        <ul class="nav-links">
+            <li><a href="#Beranda">Beranda</a></li>
+            <li><a href="#Galeri">Galeri</a></li>
+            <li><a href="#Kontak">Kontak</a></li>
+        </ul>
+    </nav>
+
+    <h1>Koleksi proyek web</h1>
+
+    <div class="Galeri-projek">
+        <div class="kartu" align="center">proyek 1: Hyperlink</div>
+        <div class="kartu" align="center">proyek 2: List & Tabel</div>
+        <div class="kartu" align="center">proyek 3: Formulir PPDB</div>
+        <div class="kartu" align="center">proyek 4: Kartu CSS</div>
+    </div>
+</body>
+</html>
