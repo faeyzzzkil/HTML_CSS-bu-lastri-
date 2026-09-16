@@ -1,0 +1,27 @@
+body {
+    font-family: Arial;
+}
+.kartu {
+    width: 300px;
+    padding: 20px;
+    margin: 30px auto;
+    background-color: #04ffff;
+    border: 1px solid #fafcf7;
+    text-align: left;
+    border-radius: 5px;
+    box-shadow: 0px 0px 10px #011616;
+}
+.kartu h2 {
+    color: rgb(8, 8, 247);
+    font-size: 28px;
+}
+.kartu button {
+    padding: 10px 20px;
+    border: none;
+    background-color: rgb(39, 224, 2);
+    color: white;
+}
+p {
+    font: georgia;
+    color: #f50f07ab;
+}
