@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Profil Siswa</title>
+    <link rel="stylesheet" href="styleprofilsiswa.css">
+</head>
+<body>
+    <div class="kartu">
+        <h1>Profil Siswa</h1>
+        <img src="foto/IMG_20260914_214335.jpg" alt="Foto Siswa">
+        <h2>Faeyza Zuljalali Rizki</h2>
+        <p>X RPL 1</p>
+        <p>Saya Sedang Mempelajari HTML dan CSS</p>
+        <br>
+        <button>Hubungi saya</button>
+    </div>
+</body>
+</html>
